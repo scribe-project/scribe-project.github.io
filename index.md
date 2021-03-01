@@ -18,6 +18,19 @@
 
 # Objectives
 
+SCRIBE's primary objective is to develop a Norwegian speech-to-text transcription system for multi-party conversations in realistic recording
+conditions.
+
+In order to attain the project goal, research and technology development beyond the state-of-the-art is needed within several key areas. These include language universal issues, as well as issues specifically related to the Norwegian language.
+
+## Secondary objectives:
+* We will develop models that are robust to disfluencies that are typical in spontaneous conversational speech, that
+can cope with turn taking and take advantage of the context in the dialog.
+* The models will also support the use of spoken dialects and different orthographies (Bokmål, Nynorsk, or dialect
+specific).
+* We will define evaluation metrics that predict the quality of the transcription based on semantics rather than merely word error rate.
+* Finally, we will contribute to the theoretical and methodological development of machine learning with sparse data.
+
 [[Back to menu]](#menu)
 
 # Events

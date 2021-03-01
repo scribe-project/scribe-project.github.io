@@ -26,14 +26,10 @@
 
 # Partners
 
-<!-- NTNU, Norwegian University of Science and Technology -->
-<a href="https://www.ntnu.no/"><img alt="NTNU, Norwegian University of Science and Technology" src="logos/ntnu_hoeyde_eng.png" width="304" /></a>
-<!-- Telenor, -->
-<a href="https://www.telenor.no/"><img alt="Telenor" src="logos/telenor.png" width="304" /></a>
-<!-- National Library of Norway -->
-<a href="https://www.nb.no/"><img alt="National Library of Norway" src="logos/NB-logo-no-eng-farge.png" width="304" /></a>
-<!-- NRK, Norwegian broadcasting company -->
-<a href="https://www.nrk.no/"><img alt="NRK, Norwegian broadcasting company" src="logos/nrk.png" width="304" /></a>
+| NTNU, Norwegian University of Science and Technology | Telenor |
+| <a href="https://www.ntnu.no/"><img alt="NTNU, Norwegian University of Science and Technology" src="logos/ntnu_hoeyde_eng.png" width="304" /></a> | <a href="https://www.telenor.no/"><img alt="Telenor" src="logos/telenor.png" width="304" /></a> |
+| National Library of Norway | NRK, Norwegian broadcasting company |
+| <a href="https://www.nb.no/"><img alt="National Library of Norway" src="logos/NB-logo-no-eng-farge.png" width="304" /></a> | <a href="https://www.nrk.no/"><img alt="NRK, Norwegian broadcasting company" src="logos/nrk.png" width="304" /></a> |
 
 [[Back to menu]](#menu)
 

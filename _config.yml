@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: IKTPLUSS project "SCRIBE"
+description: "Project SCRIBE Public Website "
+google_analytics:
+show_downloads: false
+theme: minima
+
+gems:
+  - jekyll-mentions
+  - minima

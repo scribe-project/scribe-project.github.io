@@ -1,5 +1,4 @@
-# SCRIBE: Machine transcription of Norwegian conversational speech
-Web pages for the SCRIBE project
+<!-- <img alt="Forskningsrådet" src="logos/forskningsradet.svg" width="304" /></a> -->
 
 # Menu
 

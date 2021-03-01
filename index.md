@@ -1,4 +1,4 @@
-<!-- <img alt="Forskningsrådet" src="logos/forskningsradet.svg" width="304" /></a> -->
+<!-- <a href="https://www.forskningsradet.no/"><img alt="Forskningsrådet" src="logos/forskningsradet.svg" width="304" /></a> -->
 
 # Menu
 

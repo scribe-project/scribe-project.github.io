@@ -7,11 +7,11 @@
 3. [Partners](#partners) 
 4. [Contributors](#contributors)
 5. [Public Open Access Datasets, Software and Demonstrations](#public-open-access-datasets-software-and-demonstrations)
- - [Databases](#databases)
+<!-- - [Databases](#databases)
  - [Software](#software)
- - [Demonstrations and Applications](#demonstrations-and-applications)
+ - [Demonstrations and Applications](#demonstrations-and-applications) -->
 6. [Publications](#publications)
- - [2021](#2021)
+<!-- - [2021](#2021) -->
 7. [Media](#media)
 
 # Objectives

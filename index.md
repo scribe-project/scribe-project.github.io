@@ -49,8 +49,8 @@ specific).
 * Marco Siniscalchi, NTNU
 * Pablo Ortiz, Telenor
 * Knut Kvale, Telenor
-* Jon Olsen, NB
-* Per Solberg, NB
+* Jon Arild Olsen, NB
+* Per Erik Solberg, NB
 * Egil Ljostad, NRK
 * Siri Antonsen, NRK
 * Maja Wettmark, NRK

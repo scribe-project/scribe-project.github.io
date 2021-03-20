@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="scribe.css" />
+    <meta charset="UTF-8">
+    <title>SCRIBE</title>
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>SCRIBE: Machine transcription of Norwegian conversational speech</h1>
+    </div>
+
+    <!-- Navigation Menus -->
+    <ul class="topnav" id="menus">
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Home')" id="defaultOpen">Home</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Partners')">Partners</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Data')">Open Data</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Publications')">Publications</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Contacts')">Contacts</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Related')">Related Projects</a></li>
+      <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="swapResponsive()">☰</a></li>
+    </ul>
+
+    <div class="row">
+      <div id="Partners" class="tabcontent col-main">
+	<div w3-include-HTML="partners.html"></div>
+      </div>
+    
+      <div id="Data" class="tabcontent col-main">
+	<div w3-include-HTML="data.html"></div>
+      </div>
+    
+      <div id="Publications" class="tabcontent col-main">
+	<div w3-include-HTML="publications.html"></div>
+      </div>
+    
+    <div id="Contacts" class="tabcontent col-main">
+      <h2>Contacts</h2>
+    </div>
+    
+    <div id="Related" class="tabcontent col-main">
+      <h2>Related Projects</h2>
+    </div>
+    
+
+    <div id="Home" class="tabcontent col-main">
+      <h2>Objectives</h2>
+      <p>SCRIBE’s primary objective is to develop a Norwegian speech-to-text transcription system for multi-party conversations in realistic recording conditions.</p>
+      <p>In order to attain the project goal, research and technology development beyond the state-of-the-art is needed within several key areas. These include language universal issues, as well as issues specifically related to the Norwegian language.</p>
+      <h3>Secondary objectives</h3>
+	<ul>
+	  <li>We will develop models that are robust to disfluencies that are typical in spontaneous conversational speech, that can cope with turn taking and take advantage of the context in the dialog.</li>
+	  <li>The models will also support the use of spoken dialects and different orthographies (Bokmål, Nynorsk, or dialect specific).</li>
+	  <li>We will define evaluation metrics that predict the quality of the transcription based on semantics rather than merely word error rate.</li>
+	  <li>Finally, we will contribute to the theoretical and methodological development of machine learning with sparse data.</li>
+	</ul>
+    </div> <!-- end of Home -->
+
+
+    <div class="col-side right">
+      <div class="aside">
+	<div w3-include-HTML="news.html"></div>
+      </div>
+    </div>
+
+    <!-- This script displays the main pages depending on the selected menu item -->
+    <script>
+      function openMenuItem(evt, menuItemName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+          tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+	  tablinks[i].className = tablinks[i].className.replace(" active", "");
+	  // change also the class of parent to be able to find the correct <li> in css		
+	  tablinks[i].parentNode.className = tablinks[i].parentNode.className.replace(" active", "");
+        }
+        document.getElementById(menuItemName).style.display = "block";
+        evt.currentTarget.className += " active";
+	// change also the class of parent to be able to find the correct <li> in css		
+	evt.currentTarget.parentNode.className += " active";
+	// if menus were open through the menu button, swap visibility		
+	if (evt.currentTarget.parentNode.parentNode.className === "topnav responsive") {
+	  evt.currentTarget.parentNode.parentNode.className ="topnav";
+	}
+      }
+    </script>
+
+    <!-- This script selects the default menu item when the page is first accessed -->
+    <script>
+      // Get the element with id="defaultOpen" and click on it
+      document.getElementById("defaultOpen").click();
+    </script>
+
+    <!-- This script -->
+    <script>
+      function swapResponsive() {
+        var x = document.getElementById("menus");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+    </script>
+    <!-- This is to import other html files -->
+     <script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /* Loop through a collection of all HTML elements: */
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /* Make an HTTP request using the attribute value as the file name: */
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /* Remove the attribute, and call this function once more: */
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /* Exit the function: */
+      return;
+    }
+  }
+}
+</script> 
+    <script>includeHTML();</script>
+    </div> <!-- end "row" -->
+  <footer>
+    Project supported by the <a href="https://www.forskningsradet.no/">Norwegian Research Council</a>
+  </footer>
+  </body>
+
+</html>

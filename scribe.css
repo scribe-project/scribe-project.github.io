@@ -19,7 +19,7 @@ html {
 .header {
     height: 300px;
     //line-height: 200px;
-    vertical-align: top;
+    vertical-align: center;
     background-image: url("logos/NTNU_building.jpg");
     background-color: #4488cc;
     color: #ffffff;

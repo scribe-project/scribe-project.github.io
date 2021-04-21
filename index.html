@@ -21,6 +21,7 @@
       <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Data')">Open Data</a></li>
       <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Publications')">Publications</a></li>
       <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Contacts')">Contacts</a></li>
+      <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Vacancies')">Vacancies</a></li>
       <li><a href="javascript:void(0)" class="tablinks"  onclick="openMenuItem(event, 'Related')">Related Projects</a></li>
       <li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="swapResponsive()">☰</a></li>
     </ul>
@@ -42,6 +43,10 @@
       <h2>Contacts</h2>
     </div>
     
+      <div id="Vacancies" class="tabcontent col-main">
+	<div w3-include-HTML="vacancies.html"></div>
+      </div>
+
     <div id="Related" class="tabcontent col-main">
       <h2>Related Projects</h2>
       <ul>

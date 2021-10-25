@@ -12,7 +12,7 @@
 
 - name: Solveig Reppen Lunde (Master Student)
   photo: bio-photo.jpg
-  info: "GANs for Syntetic Data Generation in Telco"
+  info: "Norwegian Dialect Analysis and Recognition"
   email: solverl@stud.ntnu.no
   year: 2021
   supervisors: Giampiero Salvi / Pablo Ortiz
@@ -21,7 +21,7 @@
 
 - name: Kristian Stensgård (Master Student)
   photo: bio-photo.jpg
-  info: ""
+  info: "End-to-end attention-based automatic speech recognition"
   email: krstensg@stud.ntnu.no
   year: 2021
   supervisors: Giampiero Salvi / Pablo Ortiz

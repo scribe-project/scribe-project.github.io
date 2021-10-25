@@ -162,6 +162,7 @@
 
 .navbar-brand {
   float: left;
+  max-width: 350px;
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
   font-size: $font-size-large;
   line-height: $line-height-computed;

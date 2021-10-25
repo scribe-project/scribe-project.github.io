@@ -1,11 +1,11 @@
-- name: Giampiero Salvi (PI, WP1 Leader)
+- name: Giampiero Salvi (PI, WP2/6 Leader)
   photo: giampiero.jpg
   info: Professor (IES-NTNU) / Ass. Professor (KTH)
   email: giampiero.salvi@ntnu.no
   number_educ: 0
   education1: Ph.D, Computer Science, KTH
 
-- name: Trobjørn Svendsen (WP2 Leader)
+- name: Trobjørn Svendsen (WP3 Leader)
   photo: torbjorn.jpg
   info: Professor (IES-NTNU)
   email: torbjorn.svendsen@ntnu.no
@@ -19,7 +19,7 @@
   number_educ: 0
   education1: PhD XXX, University of Napoli
 
-- name: Pablo Ortiz
+- name: Pablo Ortiz (WP1 Leader)
   photo: pablo.jpg
   info: Telenor Research
   email: pablo.ortiz@telenor.com
@@ -43,7 +43,7 @@
   email: jon.olsen@nb.no
   number_educ: 0
 
-- name: Per Erik Solberg
+- name: Per Erik Solberg (WP4 Leader)
   photo: per_erik.jpg
   info: Nationalbiblioteket
   email: per.solberg@nb.no
@@ -55,7 +55,7 @@
   email: ingerid.dale@nb.no
   number_educ: 0
 
-- name: Egil Ljostad
+- name: Egil Ljostad (WP5 Leader)
   photo: egil.jpg
   info: NRK
   email: egil.ljostad@nrk.no

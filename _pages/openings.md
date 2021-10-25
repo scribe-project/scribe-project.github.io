@@ -8,7 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship.**
+**We will soon open a postdoc position for the project. Stay tuned!**
+
+**We currently don't have funding for additional PhD positions. We can only welcome you if you have a fellowship.**
 
 <!--We are always looking for new group members with passion, talent, and grit!
 

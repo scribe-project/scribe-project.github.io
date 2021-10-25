@@ -24,3 +24,6 @@ Whenever you modify this repository, the web pages will be updated in a few minu
 
 ## (Advanced) to modify the layout
 - look into `_includes`, `_sass` and `_layouts`, bit this is not recommended.
+
+## Custom domain
+- if we get a domain from NTNU this can be set in the `CNAME` file

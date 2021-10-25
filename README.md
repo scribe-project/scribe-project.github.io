@@ -1,6 +1,10 @@
 # Web pages for the SCRIBE project
 
+You can find the website at [https://scribe-project.github.io/](https://scribe-project.github.io/)
+
 The pages are automatically generated from Markdown and data files that you can find in this repository. Please look at the existing data as an example of how to add new information.
+
+Whenever you modify this repository, the web pages will be updated in a few minutes. You can check the status of the generation in Settings/Pages. A blue color corresponds to code with no error, green means the new version is published.
 
 ## To add a publication
 - modify the `_data/publist.yml` file following the same format as existing entries.

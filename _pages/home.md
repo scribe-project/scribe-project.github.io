@@ -10,7 +10,7 @@ permalink: /
 (More details in [Research](research))
 
 
-[//]: # <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ml4its.png" style="float: left;width: 160px"> 
+[//]: # <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scribe.png" style="float: left;width: 160px"> 
 
 ## Objectives ##
 SCRIBE’s primary objective is to develop a Norwegian speech-to-text transcription system for multi-party conversations in realistic recording conditions.
@@ -31,19 +31,10 @@ In order to attain the project goal, research and technology development beyond 
     <div class="carousel-inner" markdown="0">
 
         <div class="item active" >
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res5.png"  style="text-align: center;height: 160px" alt="Slide 1" /></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/BERT-ASR.png"  style="text-align: center;height: 160px" alt="Slide 1" /></center>
         </div>
         <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res3.png" style="text-align: center;height: 160px" alt="Slide 2" /></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res2.png" style="text-align: center;height: 160px" alt="Slide 3" /></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.png" style="text-align: center;height: 160px" alt="Slide 4" /></center>
-        </div>
-        <div class="item">
-            <center><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/res1.jpg" style="text-align: center;height: 160px" alt="Slide 4" /></center>
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/BERT-ASR2.png" style="text-align: center;height: 160px" alt="Slide 2" /></center>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

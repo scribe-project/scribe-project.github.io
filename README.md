@@ -1,10 +1,11 @@
-# Web pages for the SCRIBE project
-The main file is `index.html`. This file should not be modified. In order to modify content, refer to the following files:
-* `partners.html`
-* `data.html`
-* `publications.html`
-* `news.html`
+# Allan Lab Website
 
-The files are in HTML format until I find a way to import Markdown files.
+This is the website of our academic research group at Leiden University.
 
-The file `index.md` is not used any longer, but I keep it for when I find a way to import Markdown.
+This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+
+Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+
+
+Copyright Allan Lab. Code released under the MIT License.
+

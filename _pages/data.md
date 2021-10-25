@@ -3,7 +3,7 @@ title: "SCRIBE - Data"
 layout: gridlay
 excerpt: "SCRIBE - Data"
 sitemap: false
-permalink: /publications/
+permalink: /data/
 ---
 
 

@@ -17,6 +17,7 @@ Whenever you modify this repository, the web pages will be updated in a few minu
 ## To add a member to the team
 - modify one of `team_members.yml`, `students.yml`, `international_members.yml`, or `alumni*` under `_data`.
 - the corresponding picture must be stored in `images/teampic`
+- if you don't have a picture, you can use `bio-photo.jpg` as placeholder.
 
 ## To modify the text in any page
 - modify the Markdown files under `_pages`

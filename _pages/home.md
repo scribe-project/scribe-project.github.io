@@ -39,6 +39,18 @@ In order to attain the project goal, research and technology development beyond 
         <div class="item">
             <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/BERT-ASR2.png" style="text-align: center;height: 160px" alt="Slide 3" /></center>
         </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SabziEtAl2021_1.png" style="text-align: center;height: 160px" alt="Slide 3" />               </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SabziEtAl2021_2.png" style="text-align: center;height: 160px" alt="Slide 3" />               </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SabziEtAl2021_3.png" style="text-align: center;height: 160px" alt="Slide 3" />               </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SabziEtAl2021_4.png" style="text-align: center;height: 160px" alt="Slide 3" />               </div>
+        <div class="item">
+            <center><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/SabziEtAl2021_5.png" style="text-align: center;height: 160px" alt="Slide 3" />               </div>
+</center>
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>

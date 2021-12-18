@@ -20,7 +20,7 @@ In order to attain the project goal, research and technology development beyond 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
-    <!--<ol class="carousel-indicators">
+    <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
@@ -30,7 +30,7 @@ In order to attain the project goal, research and technology development beyond 
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>
-    </ol> !-->
+    </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">

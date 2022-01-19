@@ -5,7 +5,7 @@
   number_educ: 0
   education1: Ph.D, Computer Science, KTH
 
-- name: Trobjørn Svendsen (WP3 Leader)
+- name: Torbjørn Svendsen (WP3 Leader)
   photo: torbjorn.jpg
   info: Professor (IES-NTNU)
   email: torbjorn.svendsen@ntnu.no
@@ -82,13 +82,13 @@
 - name: Eva Schmallegger
   photo: bio-photo.jpg
   info: PhD Student (NTNU)
-  email: eva.schmallegger@student.tugraz.at
+  email: eva.schmallegger@ntnu.no
   number_educ: 0
   
 - name: Phoebe Parsons
   photo: bio-photo.jpg
   info: PhD Student (NTNU)
-  email: phoebeamazing@gmail.com
+  email: phoebe.l.t.parsons@ntnu.no
   number_educ: 0
   
 - name: Tollef Jorgensen

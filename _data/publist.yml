@@ -10,7 +10,8 @@
 
 - title: "Acoustic-to-Articulatory Mapping with Joint Optimization of Deep Speech Enhancement and Articulatory Inversion Models"
   image: SabziEtAl2021_1.png
-  description: We investigate the problem of speaker independent acoustic-to-articulatory inversion (AAI) in noisy conditions within the deep neural network (DNN) framework.  authors: Abdolreza Sabzishahrebabaki, Giampiero Salvi, Torbjørn Karl Svendsen, Sabato Marco Siniscalchi
+  description: We investigate the problem of speaker independent acoustic-to-articulatory inversion (AAI) in noisy conditions within the deep neural network (DNN) framework.
+  authors: Abdolreza Sabzishahrebabaki, Giampiero Salvi, Torbjørn Karl Svendsen, Sabato Marco Siniscalchi
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9640504
     display: 10.1109/TASLP.2021.3133218

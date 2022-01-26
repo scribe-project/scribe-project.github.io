@@ -1,6 +1,6 @@
-- title: "Disambiguation-BERT for N-best Rescoring in Low-Resource Conversational ASR"
+- title: "BERT Attends the Conversation: Improving Low-Resource Conversational ASR"
   image: BERT-ASR.png
-  description: We study the inclusion of past conversational context through BERT language models into a CTC-based Automatic Speech Recognition (ASR) system via N-best rescoring.
+  description: We propose new, data-efficient training tasks for BERT models that improve performance of automatic speech recognition (ASR) systems on conversational speech.
   authors: Pablo Ortiz, Simen Burud
   link:
     url: https://arxiv.org/abs/2110.02267

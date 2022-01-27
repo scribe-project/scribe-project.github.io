@@ -4,7 +4,7 @@
   authors: Pablo Ortiz, Simen Burud
   link:
     url: https://arxiv.org/abs/2110.02267
-    display: arXiv:2110.02267 (2021)
+    display: arXiv:2110.02267 (2021) (Prepared for submission to JMLR)
   highlight: 1
   news2:
 
@@ -15,5 +15,18 @@
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9640504
     display: 10.1109/TASLP.2021.3133218
+  highlight: 1
+  news2:
+
+- title: "The Norwegian Parliamentary Speech Corpus"
+  image: 
+  description: The Norwegian Parliamentary Speech Corpus (NPSC) is a speech dataset with recordings of meetings from Stortinget, the Norwegian parliament.
+  It is the first, publicly available dataset containing unscripted, Norwegian speech designed for training of automatic speech recognition (ASR) systems.
+  The NPSC-trained system performed significantly better, with a 22.9% relative improvement in word error rate (WER).
+  Moreover, training on the NPSC is shown to have a "democratizing" effect in terms of dialects, as improvements are generally larger for dialects with higher WER from the baseline system.
+  authors: Per Erik Solberg, Pablo Ortiz
+  link:
+    url: https://arxiv.org/abs/2201.10881
+    display: arXiv:2201.10881 (2022) (Submitted to LREC2022)
   highlight: 1
   news2:

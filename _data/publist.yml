@@ -19,7 +19,7 @@
   news2:
 
 - title: "The Norwegian Parliamentary Speech Corpus"
-  image: 
+  image: 320px-Stortingsbygningen_IMG_8857.jpg
   description: The Norwegian Parliamentary Speech Corpus (NPSC) is the first, publicly available dataset containing unscripted, Norwegian speech designed for training of automatic speech recognition (ASR) systems. The NPSC-trained system performed significantly better, with a 22.9% relative improvement in word error rate (WER) and a "democratizing" effect in terms of dialects.
   authors: Per Erik Solberg, Pablo Ortiz
   link:

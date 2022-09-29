@@ -1,5 +1,5 @@
 - title: "BERT Attends the Conversation: Semantically Meaningful Metrics for Norwegian ASR Systems
-  image: BERT-ASR.png
+  image: interspeech2022.png
   description: We propose a new semantically meaninful metric based on BERT and dynamic programming for ASR evaluation.
   authors: Janine Rugayan, Torbjørn Svendsen, Giampiero Salvi
   link:

@@ -1,3 +1,13 @@
+- title: "BERT Attends the Conversation: Semantically Meaningful Metrics for Norwegian ASR Systems
+  image: BERT-ASR.png
+  description: We propose a new semantically meaninful metric based on BERT and dynamic programming for ASR evaluation.
+  authors: Janine Rugayan, Torbjørn Svendsen, Giampiero Salvi
+  link:
+    url: https://www.isca-speech.org/archive/interspeech_2022/rugayan22_interspeech.html
+    display: 10.21437/Interspeech.2022-817 (2022)
+  highlight: 1
+  news2:
+
 - title: "BERT Attends the Conversation: Improving Low-Resource Conversational ASR"
   image: BERT-ASR.png
   description: We propose new, data-efficient training tasks for BERT models that improve performance of automatic speech recognition (ASR) systems on conversational speech.

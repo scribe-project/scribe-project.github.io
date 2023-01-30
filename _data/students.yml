@@ -10,21 +10,21 @@
 #  education3:
 #  education4:
 
-- name: Solveig Reppen Lunde (Master Student)
-  photo: bio-photo.jpg
-  info: "Norwegian Dialect Analysis and Recognition"
-  email: solverl@stud.ntnu.no
-  year: 2021
-  supervisors: Giampiero Salvi / Pablo Ortiz
-  number_educ: 0
-  education1:
+#- name: Solveig Reppen Lunde (Master Student)
+#  photo: bio-photo.jpg
+#  info: "Norwegian Dialect Analysis and Recognition"
+#  email: solverl@stud.ntnu.no
+#  year: 2021
+#  supervisors: Giampiero Salvi / Pablo Ortiz
+#  number_educ: 0
+#  education1:
 
-- name: Kristian Stensgård (Master Student)
-  photo: bio-photo.jpg
-  info: "End-to-end attention-based automatic speech recognition"
-  email: krstensg@stud.ntnu.no
-  year: 2021
-  supervisors: Giampiero Salvi / Pablo Ortiz
-  number_educ: 0
-  education1:
+#- name: Kristian Stensgård (Master Student)
+#  photo: bio-photo.jpg
+#  info: "End-to-end attention-based automatic speech recognition"
+#  email: krstensg@stud.ntnu.no
+#  year: 2021
+#  supervisors: Giampiero Salvi / Pablo Ortiz
+#  number_educ: 0
+#  education1:
 

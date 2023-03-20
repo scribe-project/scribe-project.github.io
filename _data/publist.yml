@@ -1,3 +1,23 @@
+- title: "Improving Generalization of Norwegian ASR with Limited Linguistic Resources"
+  image: NoDaLiDa2023CombinedDataset.png
+  description: We present a study on optimizing the variability of training material for ASR when the linguistic resources are limited.
+  authors: Per Erik Solberg, Pablo Ortiz, Phoebe Parsons, Torbjørn Svendsen, Giampiero Salvi
+  link:
+    url: https://www.nodalida2023.fo/
+    display: https://www.nodalida2023.fo/ (2023)
+  highlight: 1
+  news2:
+
+- title: "A character-based analysis of impacts of dialects on end-to-end Norwegian ASR"
+  image: NoDaLiDa2023Dialects.png
+  description: We propose an analysis of the impact of dialect on ASR results for Norwegian.
+  authors: Phoebe Parsons, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi
+  link:
+    url: https://www.nodalida2023.fo/
+    display: https://www.nodalida2023.fo/ (2023)
+  highlight: 1
+  news2:
+
 - title: "Semantically Meaningful Metrics for Norwegian ASR Systems"
   image: interspeech2022.png
   description: We propose a new semantically meaninful metric based on BERT and dynamic programming for ASR evaluation.

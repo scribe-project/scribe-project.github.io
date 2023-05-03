@@ -48,6 +48,16 @@
   highlight: 0
   news2:
 
+- title: "A Large Norwegian Dataset for Weak Supervision ASR"
+  image: 320px-Stortingsbygningen_IMG_8857.jpg
+  description: We have made a Norwegian, 5000+ hour dataset for weak supervision ASR (e.g. Whisper) by aligning audio from the Norwegian parliament with the official parliamentary proceedings
+  authors: Per Erik Solberg, Pierre Beauguitte, Per Egil Kummervold, Freddy Wetjen
+  link:
+    url: https://resourceful-workshop.github.io/
+    display: https://resourceful-workshop.github.io/ (2023)
+  highlight: 1
+  news2:
+
 - title: "Improving Generalization of Norwegian ASR with Limited Linguistic Resources"
   image: NoDaLiDa2023CombinedDataset.png
   description: We present a study on optimizing the variability of training material for ASR when the linguistic resources are limited.

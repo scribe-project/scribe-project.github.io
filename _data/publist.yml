@@ -1,20 +1,10 @@
-- title: "A Case Study of Age-Dependent Fine-Tuning Strategy for Child End-to-End ASR Models"
-  image: 
-  description: We present an analysis of different strategies for fine-tuning end-to-end ASR models to child speech from different ages.
-  authors: Zijian Fan, Xinwei Cao, Giampiero Salvi, Torbjørn Svendsen
-  link:
-    url: https://www.interspeech2023.org/
-    display: https://www.interspeech2023.org/ (submitted)
-  highlight: 0
-  news2:
-
 - title: "An Analysis of Goodness of Pronunciation for Child Speech"
   image: 
   description: We present an analysis of the goodness of pronounciation method when applied to adult and child speech showing how this method is less reliable for child speech.
   authors: Xinwei Cao, Zijian Fan, Torbjørn Svendsen, Giampiero Salvi
   link:
     url: https://www.interspeech2023.org/
-    display: https://www.interspeech2023.org/ (submitted)
+    display: https://www.interspeech2023.org/
   highlight: 0
   news2:
 
@@ -24,27 +14,7 @@
   authors: Janine Rugayan, Giampiero Salvi, Torbjørn Svendsen
   link:
     url: https://www.interspeech2023.org/
-    display: https://www.interspeech2023.org/ (submitted)
-  highlight: 0
-  news2:
-
-- title: "Beyond WER: Caring about characters"
-  image: 
-  description: We propose a method for improving the alignment between recognized text and reference in order to improve the word error rate calculation.
-  authors: Phoebe Parsons, Torbjørn Svendsen, Giampiero Salvi
-  link:
-    url: https://www.interspeech2023.org/
-    display: https://www.interspeech2023.org/ (submitted)
-  highlight: 0
-  news2:
-
-- title: "Real-Time Audio-Visual Speaker Diarization for Streamed Data Processing"
-  image: 
-  description: We present an audio-visual speaker diarization system that is able to detect new speakers on-line and in real time.
-  authors: Frantisek Kynych, Torbjørn Svendsen, Giampiero Salvi, Jindrich Zdansky, Petr Cerva, Lukas Mateju
-  link:
-    url: https://www.interspeech2023.org/
-    display: https://www.interspeech2023.org/ (submitted)
+    display: https://www.interspeech2023.org/
   highlight: 0
   news2:
 
@@ -63,8 +33,8 @@
   description: We present a study on optimizing the variability of training material for ASR when the linguistic resources are limited.
   authors: Per Erik Solberg, Pablo Ortiz, Phoebe Parsons, Torbjørn Svendsen, Giampiero Salvi
   link:
-    url: https://www.nodalida2023.fo/
-    display: https://www.nodalida2023.fo/ (2023)
+    url: https://aclanthology.org/2023.nodalida-1.51/
+    display: https://aclanthology.org/2023.nodalida-1.51/ (2023)
   highlight: 1
   news2:
 
@@ -73,8 +43,8 @@
   description: We propose an analysis of the impact of dialect on ASR results for Norwegian.
   authors: Phoebe Parsons, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi
   link:
-    url: https://www.nodalida2023.fo/
-    display: https://www.nodalida2023.fo/ (2023)
+    url: https://aclanthology.org/2023.nodalida-1.47/
+    display: https://aclanthology.org/2023.nodalida-1.47/ (2023)
   highlight: 1
   news2:
 

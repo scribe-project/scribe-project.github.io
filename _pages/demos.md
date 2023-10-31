@@ -1,12 +1,12 @@
 ---
-title: "SCRIBE - News"
+title: "SCRIBE - Demos"
 layout: textlay
-excerpt: "SCRIBE -- News"
+excerpt: "SCRIBE -- Demos"
 sitemap: false
-permalink: /news/
+permalink: /demos/
 ---
 
-# News
+# Demos
 
 ## Demo at NorwAI Innovate 2023
 

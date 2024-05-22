@@ -1,3 +1,23 @@
+- title: "ollecting Linguistic Resources for Assessing Children's Pronunciation of Nordic Languages"
+  image: 
+  description: We present our efforts to collect data for child speech recognition and automatic pronunciation assessment.
+  authors: Anne Marte Haug Olstad, Anna Smolander, Sofia Strömbergsson, Sari Ylinen, Minna Lehtonen, Mikko Kurimo, Yaroslav Getman, Támas Grosz, Xinwei Cao, Torbjørn Svendsen, Giampiero Salvi
+  link:
+    url: https://aclanthology.org/2024.lrec-main.0/
+    display: https://lrec-coling-2024.org/
+  highlight: 0
+  news2:
+
+- title: "NB Uttale: A Norwegian Pronunciation Lexicon with Dialect Variation"
+  image: 
+  description: We present a dialect dependent lexicon for Norwegian.
+  authors: Marie Iversdatter Røsok, Ingerid Løyning Dale
+  link:
+    url: https://aclanthology.org/2024.lrec-main.0/
+    display: https://lrec-coling-2024.org/
+  highlight: 0
+  news2:
+
 - title: "An Analysis of Goodness of Pronunciation for Child Speech"
   image: 
   description: We present an analysis of the goodness of pronounciation method when applied to adult and child speech showing how this method is less reliable for child speech.

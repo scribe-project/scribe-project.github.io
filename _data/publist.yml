@@ -1,10 +1,10 @@
-- title: "ollecting Linguistic Resources for Assessing Children's Pronunciation of Nordic Languages"
+- title: "Collecting Linguistic Resources for Assessing Children's Pronunciation of Nordic Languages"
   image: 
   description: We present our efforts to collect data for child speech recognition and automatic pronunciation assessment.
   authors: Anne Marte Haug Olstad, Anna Smolander, Sofia Strömbergsson, Sari Ylinen, Minna Lehtonen, Mikko Kurimo, Yaroslav Getman, Támas Grosz, Xinwei Cao, Torbjørn Svendsen, Giampiero Salvi
   link:
-    url: https://aclanthology.org/2024.lrec-main.0/
-    display: https://lrec-coling-2024.org/
+    url: https://aclanthology.org/2024.lrec-main.313/
+    display: https://aclanthology.org/2024.lrec-main.313/
   highlight: 0
   news2:
 
@@ -13,8 +13,8 @@
   description: We present a dialect dependent lexicon for Norwegian.
   authors: Marie Iversdatter Røsok, Ingerid Løyning Dale
   link:
-    url: https://aclanthology.org/2024.lrec-main.0/
-    display: https://lrec-coling-2024.org/
+    url: https://aclanthology.org/2024.lrec-main.1056/
+    display: https://aclanthology.org/2024.lrec-main.1056/
   highlight: 0
   news2:
 

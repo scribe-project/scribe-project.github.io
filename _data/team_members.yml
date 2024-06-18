@@ -103,6 +103,12 @@
   email: tollef.jorgensen@ntnu.no
   number_educ: 0
   
+- name: Simen Dymbe
+  photo: simen.jpg
+  info: PhD Student (NTNU)
+  email: simendym@stud.ntnu.no
+  number_educ: 0
+  
 #<!-- - name: "This could be you !"
 #  photo: rock.jpg
 #  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info

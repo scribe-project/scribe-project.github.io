@@ -1,3 +1,13 @@
+- title: "Norwegian dialect identification: Is prosody enough? [Abstract]"
+  image: 
+  description: We present results on a pilot study on human classification of Norwegian dialects from clear speech and prosodic information alone.
+  authors: Phoebe Parsons, Heming Strømholt Bremnes, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi 
+  link:
+    url: https://zenodo.org/records/11396106
+    display: https://zenodo.org/records/11396106
+  highlight: 0
+  news2:
+
 - title: "Collecting Linguistic Resources for Assessing Children's Pronunciation of Nordic Languages"
   image: 
   description: We present our efforts to collect data for child speech recognition and automatic pronunciation assessment.

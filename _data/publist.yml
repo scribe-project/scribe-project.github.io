@@ -1,3 +1,33 @@
+- title: "Exploiting Foundation Models and Speech Enhancement for Parkinson's Disease Detection from Speech in Real-World Operative Conditions"
+  image: 
+  description: We explore the use of fundation models in the detection of Parkinson's disease in realistic noisy conditions.
+  authors: Moreno La Quatra, Maria Francesca Turco, Torbjørn Svendsen, Giampiero Salvi, Juan Rafael Orozco-Arroyave, Sabato Marco Siniscalchi
+  link:
+    url: https://www.isca-archive.org/interspeech_2024/laquatra24_interspeech.html
+    display: Interspeech 2024
+  highlight: 0
+  news2:
+
+- title: "A Framework for Phoneme-Level Pronunciation Assessment Using CTC"
+  image: 
+  description: We propose a new definition of Goodness of Pronunciation at the phonetic level that is independent of the phonetic segmentation.
+  authors: Xinwei Cao, Zijian Fan, Torbjørn Svendsen, Giampiero Salvi
+  link:
+    url: https://www.isca-archive.org/interspeech_2024/cao24b_interspeech.html
+    display: Interspeech 2024
+  highlight: 0
+  news2:
+
+- title: "Norwegian dialect identification: Is prosody enough? [Abstract]"
+  image: 
+  description: We present results on a pilot study on human classification of Norwegian dialects from clear speech and prosodic information alone.
+  authors: Phoebe Parsons, Heming Strømholt Bremnes, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi 
+  link:
+    url: https://zenodo.org/records/11396106
+    display: Fonetik 2024
+  highlight: 0
+  news2:
+
 - title: "Collecting Linguistic Resources for Assessing Children's Pronunciation of Nordic Languages"
   image: 
   description: We present our efforts to collect data for child speech recognition and automatic pronunciation assessment.

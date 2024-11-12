@@ -8,10 +8,12 @@ permalink: /vacancies
 
 # Open positions
 
+<!--
 **We have a new PhD position available!**
 [Apply here.](https://www.jobbnorge.no/en/available-jobs/job/247012/phd-candidate-in-statistical-machine-learning-for-speech-technology)
 
 Deadline: July 31, 2023
+-->
 
 <!--We are always looking for new group members with passion, talent, and grit!
 

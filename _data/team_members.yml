@@ -25,18 +25,6 @@
   email: knut.kvale@telenor.com
   number_educ: 0
 
-- name: Jon Arild Olsen
-  photo: jon_arild.jpg
-  info: Nationalbiblioteket
-  email: jon.olsen@nb.no
-  number_educ: 0
-
-- name: Per Erik Solberg (WP4 Leader)
-  photo: per_erik.jpg
-  info: Nationalbiblioteket
-  email: per.solberg@nb.no
-  number_educ: 0
-
 - name: Arne Martinus Lindstad
   photo: bio-photo.jpg
   info: Nationalbiblioteket
@@ -47,12 +35,6 @@
   photo: ingerid.jpg
   info: Nationalbiblioteket
   email: ingerid.dale@nb.no
-  number_educ: 0
-
-- name: Egil Ljostad (WP5 Leader)
-  photo: egil.jpg
-  info: NRK
-  email: egil.ljostad@nrk.no
   number_educ: 0
 
 - name: Oddbjørg Jin Bruun

@@ -195,8 +195,15 @@ Jump to [staff](#staff), [international partners](#international-partners), [mas
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former Members, visitors, BSc/ MSc students
 <div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>Members</h4>
+{% for member in site.data.alumni_members %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>

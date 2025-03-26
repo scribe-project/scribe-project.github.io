@@ -1,3 +1,23 @@
+- title: "Adding Metadata to Existing Parliamentary Speech Corpus"
+  image: 
+  description: We add speaker information to the SSC parliamentary speech corpus.
+  authors: Phoebe Parsons, Per Erik Solberg, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi 
+  link:
+    url: https://hdl.handle.net/10062/107241
+    display: NoDaLiDa 2025
+  highlight: 0
+  news2:
+
+- title: "Match ‘em: Multi-Tiered Alignment for Error Analysis in ASR"
+  image: 
+  description: We introduce a method for error analysis in ASR.
+  authors: Phoebe Parsons, Knut Kvale, Torbjørn Svendsen, Giampiero Salvi 
+  link:
+    url: https://hdl.handle.net/10062/107240
+    display: NoDaLiDa 2025
+  highlight: 0
+  news2:
+
 - title: "Exploiting Foundation Models and Speech Enhancement for Parkinson's Disease Detection from Speech in Real-World Operative Conditions"
   image: 
   description: We explore the use of fundation models in the detection of Parkinson's disease in realistic noisy conditions.

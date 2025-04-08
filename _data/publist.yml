@@ -1,3 +1,13 @@
+- title: "Conversation logs as a source of insight: predicting user satisfaction for customer service chatbots"
+  image: 
+  description: We found significant covariation between satisfaction and conversation characteristics reflecting in the log data, suggesting efficient chatbot interactions.
+  authors: Fehime Ceren Ay, Eleonora Freddi, Asbjørn Følstad, Stig Hodnebrog, Knut Kvale, Olav Alexander Sell, Simen Ulsaker
+  link:
+    url: https://link.springer.com/article/10.1007/s41233-025-00071-8
+    display: Springer Nature
+  highlight: 0
+  news2:
+
 - title: "Adding Metadata to Existing Parliamentary Speech Corpus"
   image: 
   description: We add speaker information to the SSC parliamentary speech corpus.

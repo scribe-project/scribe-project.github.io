@@ -21,14 +21,13 @@ In addition to datasets developed during the project period, a number of older d
 * [Rundkast](http://www.lrec-conf.org/proceedings/lrec2008/pdf/486_paper.pdf) is a 77 hours speech dataset consisting of orthographically transcribed speech from Norwegian radio broadcasts developed at NTNU. One hour is also transcribed phonetically. Rundkast is not publicly available.
 
 # Open Models and Code (writing in progress)
-We open-source models and code together with our publications. Below we list our main contributions in terms of models and code:
+We open-source models and code together with our publications. The [SCRIBE HuggingFace](https://huggingface.co/scribe-project) page contains several processed datasets and pre-trained models for speech recognition. Below we list our main models and code contributions as they refer to our publications:
 * From [*Dialect Identification in Humans and Machines: The Case of Norwegian Prosody*](https://scribe-project.github.io/); Phoebe Parsons, Heming Strømholt Bremnes, Knut Kvale, Torbjørn Svendsen,  Giampiero Salvi, Journal of Acoustic Society of America (2026):
   * [4-dialect classifier, unmodified audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-4dialect).
   * [4-dialect classifier, low-pass filtered audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-4dialect-low-pass).
   * [4-dialect classifier, monotonized audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-4dialect-monotonize).
   * [5-dialect classifier, unmodified audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-5dialect).
 * From [*Improving Generalization of Norwegian ASR with Limited Linguistic Resources*](https://aclanthology.org/2023.nodalida-1.51/); Per Erik Solberg, Pablo Ortiz, Phoebe Parsons, Torbjørn Svendsen, Giampiero Salvi (2023):
-  * [SCRIBE HuggingFace](https://huggingface.co/scribe-project) contains several processed datasets and pre-trained models for speech recognition.
   * [Standardization of combined datasets for ASR](https://github.com/scribe-project/nodalida_2023_combined_training) contains the code for combining the open datasets used in the research, standardizing across them, and training (fine-tuning) wav2vec2 models on them.
 * From [*BERT Attends the Conversation: Improving Low-Resource Conversational ASR*](https://arxiv.org/pdf/2110.02267.pdf); Pablo Ortiz, Simen Burud (2021):
   * [Large-Scale Language Models for Conversational Speech Recognition](https://gitlab.com/sburud/master) contains code for implementing a BERT model that learns about conversational patterns and can be added as a module to ASR models to improve transcriptions.

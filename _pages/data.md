@@ -20,7 +20,7 @@ In addition to datasets developed during the project period, a number of older d
 * [NB Tale](https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-31/) is an acoustic-phonetic speech dataset for Norwegian. The database contains recordings of 380 speakers from 12 dialect aread as well as second language speakers with different native languages. The dataset is produced by Lingit AS for the Norwegian Language Bank. NB Samtale contains manuscript-read speech which is orthographically and phonetically transcribed. It also contains some unplanned speech, which is orthographically transcribed.
 * [Rundkast](http://www.lrec-conf.org/proceedings/lrec2008/pdf/486_paper.pdf) is a 77 hours speech dataset consisting of orthographically transcribed speech from Norwegian radio broadcasts developed at NTNU. One hour is also transcribed phonetically. Rundkast is not publicly available.
 
-# Open Models and Code (writing in progress)
+# Open Models and Code
 We open-source models and code together with our publications. Our [SCRIBE HuggingFace](https://huggingface.co/scribe-project) page contains several processed datasets and pre-trained models for speech recognition. Our [GitHub page](https://github.com/scribe-project/) contains the repositories for the code we have made publicly available.
 
 Below we list our main models and code contributions as they refer to our publications:

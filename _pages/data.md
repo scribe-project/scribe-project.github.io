@@ -21,7 +21,9 @@ In addition to datasets developed during the project period, a number of older d
 * [Rundkast](http://www.lrec-conf.org/proceedings/lrec2008/pdf/486_paper.pdf) is a 77 hours speech dataset consisting of orthographically transcribed speech from Norwegian radio broadcasts developed at NTNU. One hour is also transcribed phonetically. Rundkast is not publicly available.
 
 # Open Models and Code (writing in progress)
-We open-source models and code together with our publications. The [SCRIBE HuggingFace](https://huggingface.co/scribe-project) page contains several processed datasets and pre-trained models for speech recognition. Below we list our main models and code contributions as they refer to our publications:
+We open-source models and code together with our publications. Our [SCRIBE HuggingFace](https://huggingface.co/scribe-project) page contains several processed datasets and pre-trained models for speech recognition. Our [GitHub page](https://github.com/scribe-project/) contains the repositories for the code we have made publicly available.
+
+Below we list our main models and code contributions as they refer to our publications:
 * From [*Dialect Identification in Humans and Machines: The Case of Norwegian Prosody*](https://scribe-project.github.io/); Phoebe Parsons, Heming Strømholt Bremnes, Knut Kvale, Torbjørn Svendsen,  Giampiero Salvi, Journal of Acoustic Society of America (2026):
   * [4-dialect classifier, unmodified audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-4dialect).
   * [4-dialect classifier, low-pass filtered audio](https://huggingface.co/scribe-project/nb-whisper-dialect-id-4dialect-low-pass).
